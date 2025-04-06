@@ -2,7 +2,7 @@
 
 *A smart IoT device that reminds users to take medicine and monitors storage conditions (temperature & humidity).*
 
-![MediBox Demo](./demo.gif) *(Replace with actual project image)*
+![MediBox Demo](./demo.jpg) 
 
 ## 🔍 Features
 ✅ **Multiple Alarms** – Set reminders for medication times  
